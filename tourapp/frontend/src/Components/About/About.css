@@ -1,0 +1,114 @@
+
+
+
+.about {
+    padding: 20px 0;
+  }
+  
+  .secContainer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  .secIntro {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .secTitle {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .mainContent {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  .singleOffer img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .discount {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #ff4d4d;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .price {
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .price h4 {
+    font-size: 1.5rem;
+  }
+  
+  .status {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .amenities {
+    flex-direction: column;
+  }
+  
+  .singleAmenity {
+    margin-bottom: 5px;
+  }
+  
+  .icon {
+    margin-right: 5px;
+  }
+  
+  .location {
+    margin-top: 20px;
+  }
+  
+  .location small {
+    margin-left: 5px;
+  }
+  
+  .rating {
+    margin-top: 10px;
+  }
+  
+  .btn {
+    margin-top: 20px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .flex {
+    display: flex;
+    align-items: center;
+  }
+  
+  .container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  
+  .section {
+    padding: 70px 0;
+  }

@@ -1,0 +1,18 @@
+.footer {
+    text-align: center;
+  }
+  .linkTitle {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+}
+  
+  .icon {
+    color: purple;
+  }
+ 
+  .footerLinks a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease; /* Add transition effect for smooth color change */
+  }

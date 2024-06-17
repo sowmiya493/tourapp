@@ -1,0 +1,35 @@
+.navBarSection {
+    align-items: center; /* Align items vertically */
+    padding: 1rem; /* Add padding */
+    top: 0; /* Position from the top */
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+}
+
+.logoDiv {
+    display: flex;
+    align-items: center;
+}
+
+.navBar {
+    display: flex;
+    align-items: center;
+}
+
+.navLists {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.navItem {
+    margin-right: 1rem;
+}
+
